@@ -239,6 +239,13 @@ body {
   /* border: #fff solid 2px; */
 }
 
+/* Produk Section */
+.products .container{
+  display: flex;
+  width: 100%;
+  background-color: var(--primary);
+  color: #fff;
+}
 /* Contact Section */
 .contact .row {
   display: flex;
