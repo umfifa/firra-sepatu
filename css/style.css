@@ -241,19 +241,7 @@ body {
 
 /* Produk Section */
 
-.products .container{
-  display: flex;
-  flex-wrap: wrap;
-  background-color: var(--primary);
-  color: #fff;
-  justify-content: center;
-}
 
-.products .container .shopping-cart{
-  background-color: aqua;
-  border-radius: 50%;
-  font-size: 3rem;
-}
 
 /* Contact Section */
 .contact .row {
