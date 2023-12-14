@@ -243,10 +243,10 @@ body {
 
 .products .container{
   display: flex;
-  width: 100%;
   background-color: var(--primary);
   color: #fff;
   flex-wrap: nowrap;
+  height: 25%;
 }
 
 .products .container .shopping-cart{
