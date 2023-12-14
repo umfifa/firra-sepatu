@@ -246,8 +246,7 @@ body {
   width: 100%;
   background-color: var(--primary);
   color: #fff;
-  justify-content: space-between;
-  font-size: 3rem;
+  flex-wrap: nowrap;
 }
 
 .products .container .shopping-cart{
@@ -258,6 +257,7 @@ body {
   align-items: center;
   padding: 2rem 2rem;
   border-radius: 50%;
+  font-size: 3rem;
 }
 
 /* Contact Section */
