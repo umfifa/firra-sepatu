@@ -240,7 +240,13 @@ body {
 }
 
 /* Produk Section */
+.products .container{
+  background-color: var(--primary);
+}
 
+.products .container .shopping-cart{
+  background-color: aqua;
+}
 
 
 /* Contact Section */
